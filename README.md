@@ -29,18 +29,8 @@ Uvicorn
 Estas herramientas permiten construir APIs rápidas y simular la comunicación entre servicios en una arquitectura distribuida.
 
 ## Estructura del proyecto
-    microservicios_citas
-│
-├── citas
-│   ├── main.py
-│   └── database.py
-│
-├── pacientes
-│   ├── main.py
-│   └── database.py
-│
-├── requirements.txt
-└── README.md
+<img width="249" height="226" alt="image" src="https://github.com/user-attachments/assets/c892ff15-32ac-4c27-bc4b-242210f00ad5" />
+
 ## Base de datos
 citas_db
 Tabla pacientes:
