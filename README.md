@@ -44,17 +44,8 @@ fecha
 estado
 paciente_id funciona como relación con la tabla de pacientes.
 ## Arquitectura del sistema
- Cliente
-   │
-   ▼
-API Citas (Puerto 8000)
-   │
-   │ Petición HTTP
-   ▼
-API Pacientes (Puerto 8001)
-   │
-   ▼
-Base de datos MySQL
+<img width="247" height="234" alt="image" src="https://github.com/user-attachments/assets/2dbd5b5d-2203-4965-b373-385fd454ad7b" />
+
 
 El servicio de citas consulta al servicio de pacientes antes de registrar una nueva cita.
 ## EJECUCION DEL PROYECTO
