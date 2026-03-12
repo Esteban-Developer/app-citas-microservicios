@@ -58,6 +58,8 @@ Windows:
 
 python -m venv .venv
 .venv\Scripts\activate
+
+
 Linux / WSL:
 
 python3 -m venv .venv
